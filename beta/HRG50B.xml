@@ -9,7 +9,7 @@
            remote="aosp"
            sync-j="4" />
 
-<!-- Manifest of Android Honeycomb build HRG50B. Base build is 138de165c745376d67ccaab75582fe2006df0ed7. Build tagged on 19 August 2010, manifest made on 8 September 2026. -->
+<!-- Manifest of Android Honeycomb build HRG50B. Base build is 138de165c745376d67ccaab75582fe2006df0ed7. Build tagged on 19 August 2010, manifest made on 11 September 2026. -->
   <!-- HRG50B -->
   <project path="build" name="platform/build" revision="6a50ac652961d06039b45f0df5641e16db451d2a">
     <copyfile src="core/root.mk" dest="Makefile" />
